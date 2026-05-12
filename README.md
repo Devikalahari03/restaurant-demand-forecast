@@ -6,14 +6,14 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-ML%20Model-orange)](https://xgboost.readthedocs.io)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit)](https://streamlit.io)
 [![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker)](https://docker.com)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-yellow)](https://huggingface.co/spaces/YOUR_USERNAME/restaurant-demand-forecast)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-yellow)](https://huggingface.co/spaces/devikalahari03/restaurant-demand-forecast)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
 ## 📊 Live Demo
 
-🚀 **[Try it on Hugging Face Spaces →](https://huggingface.co/spaces/YOUR_USERNAME/restaurant-demand-forecast)**
+🚀 **[Try it on Hugging Face Spaces →](https://huggingface.co/spaces/devikalahari03/restaurant-demand-forecast)**
 
 ---
 
