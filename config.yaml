@@ -1,0 +1,10 @@
+data:
+  raw_path: data/raw/sales.csv
+  processed_path: data/processed/
+  test_size: 0.2
+model:
+  target: sales
+  metrics: ['mape', 'rmse']
+  random_state: 42
+forecast_days: 7
+risk_threshold: 0.3
